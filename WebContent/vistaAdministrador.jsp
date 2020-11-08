@@ -6,7 +6,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<meta charset="ISO-8859-1">
+<meta charset="ISO-8859-1">      
 <title>logueo</title>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -32,7 +32,7 @@
 			if (estudiantes != null) {
 	%>
 	<div class="container">
-		<h4 style="text-align: start">Listado de estudiantes</h4>
+		<h4 style="text-align: start">Listado de estudiantesssssss</h4>
 		<table class="table table-hover">
 			<thead class="thead bg-success text-white">
 			<tr>

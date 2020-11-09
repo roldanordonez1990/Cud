@@ -17,7 +17,7 @@
 
 
  		
- <h4 style="margin: 18px;">Introduce tus datos</h4>
+ <h4 style="margin: 18px;">Introduce tus datos de usuario</h4>
  <form class="form-inline" action="/Crud/ServletLoguear" method="post">
  
    <div class="form-group mx-sm-3">

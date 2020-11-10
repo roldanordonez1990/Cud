@@ -78,7 +78,7 @@ public class ServletLoguear extends HttpServlet {
 		}
 
 		for (Administrador admi : administradores) {
-			if (admi.getNombre().equals(request.getParameter("usuario"))) {
+			if (admi.getNombre().equals(request.getParameter("usuario")) && admi.getPass().equals(request.getParameter("pass"))) {
 				logueado = true;
 				administrador = true;
 				//response.sendRedirect("vistaAdministrador.jsp");

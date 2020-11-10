@@ -32,7 +32,7 @@
 			if (estudiantes != null) {
 	%>
 	<div class="container">
-		<h4 style="text-align: start">Listado de estudiantesssssss</h4>
+		<h4 style="text-align: start">Listado de estudiantes</h4>
 		<table class="table table-hover">
 			<thead class="thead bg-success text-white">
 			<tr>
